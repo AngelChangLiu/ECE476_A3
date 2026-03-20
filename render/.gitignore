@@ -1,0 +1,4 @@
+objs/
+logs/
+render
+*.ppm
